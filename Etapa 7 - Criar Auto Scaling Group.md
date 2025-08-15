@@ -12,9 +12,11 @@ Rede
 - VPC: wordpress-pvc
 - Zonas de disponibilidade e sub-redes:
     us-east-2a ✅
+
   sub-rede: `WordPress-Private-1`
   
 us-east-2b ✅
+
   sub-rede: `WordPress-Private-2` `WordPress-Private-3` `WordPress-Private-4` 
 - Distribuição da zona de disponibilidade: Melhor esforço equilibrado ✅
 
