@@ -12,3 +12,6 @@ Tecnologias Usadas
 -------------------------------------------------------------------------------------------------------------
 `☁️AWS` `☁️Amazon EC2` `🗄️RDS MYSQL` `☁️Amazon EFS` `🚦Application Load Balancer` `🐳Docker` `📦Docker Compose` `⚖️Auto Scaling` `WordPress` `Markdown` `💻CMD` `🐚Bash` `YAML` `🐧Amazon Linux 2023` `🐙Github` 
 
+-------------------------------------------------------------------------------------------------------------
+### Desenvolvido por
+[Igor Macêdo](https://www.linkedin.com/in/https://www.linkedin.com/in/macedoigorr/)
