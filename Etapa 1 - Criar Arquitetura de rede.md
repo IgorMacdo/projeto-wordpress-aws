@@ -18,6 +18,7 @@ Acesse a aba de VPC seguindo o caminho **AWS > VPC > Suas VPCs > Criar VPC**
 No canto esquerdo da tela onde está escrito Painel da VPC procure por Sub-redes e clique em Criar sub-rede
 
 ![SubRedes](Imagens/1_2_SubRedes.png)
+
 Selecione a sua VPC criada e clique em Adicionar nova sub-rede
 - **WordPress-Public-1**
     - Zona de Disponibilidade: `us-east-2a`
