@@ -7,6 +7,7 @@ Acesse a **AWS > EC2 > Auto Scaling Groups**
 ![ASG](Imagens/7_ASG.png)
 
 Clique em Próximo
+
 Rede
 - VPC: wordpress-pvc
 - Zonas de disponibilidade e sub-redes:
@@ -26,8 +27,6 @@ Anexar a um balanceador de carga existente
 **Escolha entre seus grupos de destino de balanceador de carga** ✅
 Grupos de destino de balanceador de cargas existentes
 **HTTP-WordPress** ✅
-
-![ASG_Rede](Imagens/7_ASG_Rede.png)
 
 Deslize até chegar em Verificações de integridade
 Marque a caixa: **Ative as verificações de integridade do Elastic Load Balancing** ✅
