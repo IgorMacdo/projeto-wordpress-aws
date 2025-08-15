@@ -24,6 +24,7 @@ Conteúdo do modelo de execução
 ![Tipo_De_Instancia](Imagens/5_2Tipo_de_instancia.png)
 
 ![Chave](Imagens/5_3Chave.png)
+
 **Configurações de Rede**
 Somente altere o grupo de segurança para o `WordPress-EC2-SG`
 
@@ -83,7 +84,7 @@ Dados sensíveis podem ser adquiridos aos seguintes locais
 - AWS > EFS > efs-wordpress 
   Ao acessar o EFS, localize `Nome de DNS`, copie e cole no script em EFS_DNS
 
-![EFS_DNS](Imagens/5_6EFSDNS.png]])
+![EFS_DNS](Imagens/5_6EFSDNS.png)
 
 **RDS**
 - DB_USER: 
