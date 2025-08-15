@@ -1,6 +1,6 @@
 #!/bin/bash
 sudo su
-EFS_DNS="fs-08768b49a14ef49c8.efs.us-east-2.amazonaws.com"
+EFS_DNS="seu_dns_aqui"
 
 sudo dnf update -y
 sudo dnf install -y nfs-utils docker
@@ -30,10 +30,10 @@ services:
     ports:
       - "80:80"
     environment:
-      WORDPRESS_DB_HOST: rds-wordpress.c5a60wgcgn92.us-east-2.rds.amazonaws.com:3306
-      WORDPRESS_DB_USER: admin
-      WORDPRESS_DB_PASSWORD: senha1234
-      WORDPRESS_DB_NAME: databasewordpress
+      WORDPRESS_DB_HOST: endpoint_rds:3306
+      WORDPRESS_DB_USER: seu_user
+      WORDPRESS_DB_PASSWORD: suasenha
+      WORDPRESS_DB_NAME: nomerds(criado em configurações adicionais)
     volumes:
       - /mnt/efs:/var/www/html
 EOF
