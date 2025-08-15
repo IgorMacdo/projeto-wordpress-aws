@@ -14,4 +14,4 @@ Tecnologias Usadas
 
 -------------------------------------------------------------------------------------------------------------
 ### Desenvolvido por
-[Igor Macêdo](https://www.linkedin.com/in/https://www.linkedin.com/in/macedoigorr/)
+[Igor Macêdo](https://www.linkedin.com/in/macedoigorr/)
